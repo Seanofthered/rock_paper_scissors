@@ -35,6 +35,7 @@ scissors = '''
 '''
 game_images = [rock, paper, scissors]
 
+print("Welcome to Rock, Paper, Scissors!\n")
 user_input = input("What do you choose? Type 0 for Rock, 1 for Paper, or 2 for Scissors.\n ")
 
 try:
